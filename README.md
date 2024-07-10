@@ -1,2 +1,7 @@
 # Heart-disease-ML
-Using Keras and Scikit-learn to create and train a neural network that can predict heart disease and comparing it with classical machine learning classification models.
+We use Keras and Scikit-learn to create and train a neural network that can predict heart disease and comparing it with classical machine learning classification models.
+
+The dataset can be found in:
+http:////archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+The dataset contains 76 attributes, including age, sex, resting blood pressure, cholestoral levels, echocardiogram data, exercise habits, and many others. However, all published studies using this data focus on a subset of 14 attributes, and so will we. In particular, we will use the processed data collected at the Cleveland Clinic Foundation.
